@@ -1,0 +1,15 @@
+/* TEAM */
+Lead Developer: Rafa Rodriguez
+Site: rafageist@divengine.com, https://rafageist.com
+Twitter: @rafageist
+Location: Remote, Worldwide
+
+/* THANKS */
+Organization: Abacus Computing Institute
+Mission: We bring the power of university to you
+
+/* SITE */
+Last update: 2025/11/16
+Standards: HTML5, CSS3, ES6
+Components: Font Awesome, Klaro, Vanilla JS
+Software: Visual Studio Code, Git, GitHub Pages
